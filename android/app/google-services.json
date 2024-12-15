@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "493245610875",
+    "project_id": "habithero-17f5e",
+    "storage_bucket": "habithero-17f5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493245610875:android:510e7e827d91055c565bde",
+        "android_client_info": {
+          "package_name": "com.technion.android.habit_hero"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ4h13kimwea2NuGQSWQpH4UuqffpSq3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
